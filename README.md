@@ -5,3 +5,12 @@
 1. LiDAR를 이용한 SLAM으로 Map 제작
 2. Map에 노드 선언
 3. Path planning
+
+
+
+
+#####RECORD
+
+24.04.05
+계획 구체화 및 플로우차트 완성
+
