@@ -9,8 +9,11 @@
 3. Path planning
 4. Control
 
-
-
+#### SLAM
+1. 터틀봇의 슬램 노드 실행
+2. teleoperation 노드 실행, 원격 조종을 이용한 Mapping의 정밀도 향상
+3. maxUrange, map_update_interval 등의 파라미터 튜닝 필요
+4. odometry, tf 기반의 맵 생성 후 저장(white - collision free, black - inaccessible area, gray - unknown area)
 
 ##### RECORD
 
